@@ -1,0 +1,33 @@
+#title{
+  padding-left:22.3rem;
+  padding-right:22.8rem;
+}
+
+#mainbody{
+
+    background-color:lightgray;
+    text-align: center;
+    width:45%;
+    margin-left:27%;
+    margin-right:20%;
+    padding:4% 0;
+}
+
+p{
+    font-family:"Ubuntu","sand serif";
+}
+.table-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.parent{
+    margin:15px;
+    display: grid;
+    grid-template-columns:305px 307px;
+
+    padding-left:22.7rem;
+}
+
+
+
